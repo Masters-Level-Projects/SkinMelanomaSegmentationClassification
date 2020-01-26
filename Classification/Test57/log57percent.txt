@@ -1,0 +1,124 @@
+/home/csm1007/anaconda3/envs/workenv/bin/python /home/csm1007/Documents/PythonProjects/BIPA_Project/cnn_pytorch3.py
+/home/csm1007/anaconda3/envs/workenv/lib/python3.6/site-packages/torch/utils/data/sampler.py:115: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.weights = torch.tensor(weights, dtype=torch.double)
+
+Begin training the model...
+Epoch [1/10], Step [50/500], Loss: 5.407
+Epoch [1/10], Step [100/500], Loss: 3.354
+Epoch [1/10], Step [150/500], Loss: 2.212
+Epoch [1/10], Step [200/500], Loss: 2.358
+Epoch [1/10], Step [250/500], Loss: 2.182
+Epoch [1/10], Step [300/500], Loss: 1.100
+Epoch [1/10], Step [350/500], Loss: 0.945
+Epoch [1/10], Step [400/500], Loss: 0.847
+Epoch [1/10], Step [450/500], Loss: 1.060
+Epoch [1/10], Step [500/500], Loss: 1.076
+Validation Accuracy of the model on 1001 validation images: 51.049 %
+Epoch [2/10], Step [50/500], Loss: 1.151
+Epoch [2/10], Step [100/500], Loss: 1.108
+Epoch [2/10], Step [150/500], Loss: 1.053
+Epoch [2/10], Step [200/500], Loss: 0.709
+Epoch [2/10], Step [250/500], Loss: 1.311
+Epoch [2/10], Step [300/500], Loss: 0.536
+Epoch [2/10], Step [350/500], Loss: 1.022
+Epoch [2/10], Step [400/500], Loss: 0.622
+Epoch [2/10], Step [450/500], Loss: 1.449
+Epoch [2/10], Step [500/500], Loss: 0.382
+Validation Accuracy of the model on 1001 validation images: 37.363 %
+Epoch [3/10], Step [50/500], Loss: 1.445
+Epoch [3/10], Step [100/500], Loss: 0.543
+Epoch [3/10], Step [150/500], Loss: 0.593
+Epoch [3/10], Step [200/500], Loss: 0.399
+Epoch [3/10], Step [250/500], Loss: 1.019
+Epoch [3/10], Step [300/500], Loss: 0.685
+Epoch [3/10], Step [350/500], Loss: 0.448
+Epoch [3/10], Step [400/500], Loss: 0.920
+Epoch [3/10], Step [450/500], Loss: 0.433
+Epoch [3/10], Step [500/500], Loss: 0.722
+Validation Accuracy of the model on 1001 validation images: 48.851 %
+Epoch [4/10], Step [50/500], Loss: 0.626
+Epoch [4/10], Step [100/500], Loss: 1.321
+Epoch [4/10], Step [150/500], Loss: 0.619
+Epoch [4/10], Step [200/500], Loss: 0.120
+Epoch [4/10], Step [250/500], Loss: 0.559
+Epoch [4/10], Step [300/500], Loss: 0.513
+Epoch [4/10], Step [350/500], Loss: 0.252
+Epoch [4/10], Step [400/500], Loss: 0.376
+Epoch [4/10], Step [450/500], Loss: 0.389
+Epoch [4/10], Step [500/500], Loss: 0.582
+Validation Accuracy of the model on 1001 validation images: 24.575 %
+Epoch [5/10], Step [50/500], Loss: 0.198
+Epoch [5/10], Step [100/500], Loss: 0.538
+Epoch [5/10], Step [150/500], Loss: 0.733
+Epoch [5/10], Step [200/500], Loss: 0.287
+Epoch [5/10], Step [250/500], Loss: 0.475
+Epoch [5/10], Step [300/500], Loss: 0.299
+Epoch [5/10], Step [350/500], Loss: 0.993
+Epoch [5/10], Step [400/500], Loss: 0.896
+Epoch [5/10], Step [450/500], Loss: 1.268
+Epoch [5/10], Step [500/500], Loss: 0.601
+Validation Accuracy of the model on 1001 validation images: 48.352 %
+Epoch [6/10], Step [50/500], Loss: 0.593
+Epoch [6/10], Step [100/500], Loss: 0.422
+Epoch [6/10], Step [150/500], Loss: 0.352
+Epoch [6/10], Step [200/500], Loss: 0.243
+Epoch [6/10], Step [250/500], Loss: 0.455
+Epoch [6/10], Step [300/500], Loss: 0.523
+Epoch [6/10], Step [350/500], Loss: 0.233
+Epoch [6/10], Step [400/500], Loss: 0.342
+Epoch [6/10], Step [450/500], Loss: 0.894
+Epoch [6/10], Step [500/500], Loss: 0.283
+Validation Accuracy of the model on 1001 validation images: 61.538 %
+Epoch [7/10], Step [50/500], Loss: 0.507
+Epoch [7/10], Step [100/500], Loss: 0.368
+Epoch [7/10], Step [150/500], Loss: 0.130
+Epoch [7/10], Step [200/500], Loss: 0.313
+Epoch [7/10], Step [250/500], Loss: 0.319
+Epoch [7/10], Step [300/500], Loss: 0.201
+Epoch [7/10], Step [350/500], Loss: 0.398
+Epoch [7/10], Step [400/500], Loss: 0.940
+Epoch [7/10], Step [450/500], Loss: 1.054
+Epoch [7/10], Step [500/500], Loss: 0.293
+Validation Accuracy of the model on 1001 validation images: 50.350 %
+Epoch [8/10], Step [50/500], Loss: 0.769
+Epoch [8/10], Step [100/500], Loss: 0.071
+Epoch [8/10], Step [150/500], Loss: 0.616
+Epoch [8/10], Step [200/500], Loss: 0.285
+Epoch [8/10], Step [250/500], Loss: 0.272
+Epoch [8/10], Step [300/500], Loss: 0.287
+Epoch [8/10], Step [350/500], Loss: 0.373
+Epoch [8/10], Step [400/500], Loss: 0.147
+Epoch [8/10], Step [450/500], Loss: 0.572
+Epoch [8/10], Step [500/500], Loss: 0.727
+Validation Accuracy of the model on 1001 validation images: 48.252 %
+Epoch [9/10], Step [50/500], Loss: 0.480
+Epoch [9/10], Step [100/500], Loss: 0.234
+Epoch [9/10], Step [150/500], Loss: 0.207
+Epoch [9/10], Step [200/500], Loss: 0.038
+Epoch [9/10], Step [250/500], Loss: 0.265
+Epoch [9/10], Step [300/500], Loss: 0.535
+Epoch [9/10], Step [350/500], Loss: 0.272
+Epoch [9/10], Step [400/500], Loss: 0.434
+Epoch [9/10], Step [450/500], Loss: 0.305
+Epoch [9/10], Step [500/500], Loss: 0.094
+Validation Accuracy of the model on 1001 validation images: 48.851 %
+Epoch [10/10], Step [50/500], Loss: 0.278
+Epoch [10/10], Step [100/500], Loss: 0.417
+Epoch [10/10], Step [150/500], Loss: 0.391
+Epoch [10/10], Step [200/500], Loss: 0.218
+Epoch [10/10], Step [250/500], Loss: 0.305
+Epoch [10/10], Step [300/500], Loss: 0.235
+Epoch [10/10], Step [350/500], Loss: 0.359
+Epoch [10/10], Step [400/500], Loss: 0.176
+Epoch [10/10], Step [450/500], Loss: 0.429
+Epoch [10/10], Step [500/500], Loss: 0.265
+Validation Accuracy of the model on 1001 validation images: 56.144 %
+
+Training complete! Now finally testing learned model
+Now evaluating the model...
+Test Accuracy of the model on the 999 test images: 57.55755755755756 %
+We will now have a look at the confusion matrix for the test set...
+Plotting Confusion Matrix
+
+Process finished with exit code 0
+
